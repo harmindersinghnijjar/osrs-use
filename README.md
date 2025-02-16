@@ -1,2 +1,2 @@
-# osrs-use-
+# OSRS Use
 Make OSRS accessible for AI agents
